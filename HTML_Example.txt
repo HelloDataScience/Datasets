@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+  <body>
+    <h1>Web Crawling Example</h1>
+    <p>This is the first paragraph.</p>
+    <p>This is the second paragraph.</p>
+    <h2 id="site">Websites</h2>
+    <div>
+      <p>Website List</p>
+      <a href="https://www.naver.com" class="site kr">Naver</a>
+      <a href="https://www.google.com" class="site us">Google</a>
+      <a href="https://www.youtube.com" class="site us">YouTube</a>
+    </div>
+    <h2 id="lang">Languages</h2>
+    <ul>
+      <div>
+        <p>Asian Language List</p>
+        <li title="asian">Korean</li>
+        <li title="asian">Japanese</li>
+      </div>
+      <div>
+        <p>European Language List</p>
+        <li title="european">English</li>
+        <li title="european">French</li>
+      </div>
+    </ul>
+    <ol>
+    </ol>
+  </body>
+</html>
